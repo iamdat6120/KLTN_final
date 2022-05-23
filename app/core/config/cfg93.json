@@ -1,0 +1,12 @@
+
+{   
+    "speed_estimate_area": [[1187,243],[2115,231],[47,1083],[2411,1095]],
+    "estimateKM": [0.0206,0.036],
+    "tracking_area": [[1187,243],[2115,231],[47,1083],[2411,1095]],
+    "deadline": [[733,577],[2237,575]],
+    "max_speed_motocycle": 60,
+    "max_speed_car":70,
+    "max_speed_truck":60,
+    "max_speed_bus": 80,
+    "max_speed_tricycle": 50
+}
